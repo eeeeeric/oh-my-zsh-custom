@@ -1,0 +1,3 @@
+[submodule "themes/bullet-train.zsh"]
+	path = themes/bullet-train.zsh
+	url = https://github.com/caiogondim/bullet-train.zsh.git
